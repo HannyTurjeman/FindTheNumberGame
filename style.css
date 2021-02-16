@@ -7,7 +7,11 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: rgb(64, 104, 233);
+    background-color: rgb(88, 126, 252);
+    background-image: url('https://image.freepik.com/free-photo/colorful-kids-toys-frame-blue-background-top-view-copy-space_40163-47.jpg');
+    background-size: cover;
+    background-position: center;
+
 }
 
 #board {
